@@ -1,16 +1,30 @@
-## Hi there 👋
+# David Fernández Espejo
 
-<!--
-**Perales1/Perales1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Informática | Universidad de Jaén (UJA)
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de último curso de Ingeniería Informática realizando la mención en Tratamiento Inteligente de la Información. En este perfil publico las prácticas, proyectos y algoritmos desarrollados a lo largo del grado.
+
+- **Áreas de interés:** Ciencia de Datos, Simulación de Sistemas, Optimización y Metaheurísticas.
+- **Estado:** Estudiante de Grado (4º Curso).
+- **Idiomas:** Español (Nativo), Inglés (C1), Francés (B2 - Bachibac).
+
+---
+
+## Lenguajes y Tecnologías
+
+- **Lenguajes:** R, Java, C++, SQL, Python.
+- **Herramientas y Entornos:** Git, GitHub, Linux, RStudio, R Shiny.
+- **Bases de Datos:** PostgreSQL, MySQL.
+
+---
+
+## Proyectos Académicos
+
+---
+
+## Contacto
+
+- **Email universitario:** dfe00004@red.ujaen.es
+- **Email personal:** dfernandezespejo@gmail.com
